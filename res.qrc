@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="ground.png">image/GROUND.png</file>
+        <file alias="bird.png">image/Normal_Bird_1.png</file>
+        <file>image/head.png</file>
+        <file>image/ground1.png</file>
+        <file>image/wood.png</file>
+        <file>image/shit.png</file>
+        <file>image/back.png</file>
+        <file>image/restart.png</file>
+        <file>John_Cena-WWE_-_The_Time_Is_Now_John_Cena_Theme_Song_AE_Arena_Effect_mp4.mp3</file>
+        <file>image/black.png</file>
+        <file>image/white.png</file>
+        <file>image/yellow.png</file>
+        <file>image/end.png</file>
+    </qresource>
+</RCC>
